@@ -1,4 +1,4 @@
-<h2 align="left">Hey There! My name is Charles Johnson!</h2>
+<h2 align="left">Hey There!</h2>
 
 ###
 
