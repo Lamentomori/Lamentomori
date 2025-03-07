@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm a Freelance Graphic Designer and Cyber Defense Major with an immense passion for Information Security.<br><br><center>I am dedicated towards making Cyber Defense training entertaining!</center><br><br>If you're interested in topics such as Information Security, Web Application Security, and Reverse Engineering<br>You should Join Our Discord: https://cyberwatch.cc/invite (discord.gg/cyberwatch)</p>
+<p align="left">I'm a Freelance Graphic Designer and Cyber Defense Major with an immense passion for Information Security.<br><br><center><a>I am dedicated towards making Cyber Defense training entertaining!</a></center><br><br>If you're interested in topics such as Information Security, Web Application Security, and Reverse Engineering<br>You should Join Our Discord: https://cyberwatch.cc/invite (discord.gg/cyberwatch)</p>
 
 ###
 
