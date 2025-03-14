@@ -1,73 +1,52 @@
-<div align="center">
-  <img height="200" src="https://i.ibb.co/gyRyLwc/cyberwatch-advert.gif"  />
+<div style="text-align: center;">
+  <img src="https://i.ibb.co/gyRyLwc/cyberwatch-advert.gif" alt="Cyberwatch Advertisement" style="height:200px;">
 </div>
 
-###
+<section>
+  <p style="text-align: left; font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6;">
+    I am a Freelance Graphic Designer and Cyber Defense Major with a profound commitment to Information Security. My goal is to transform Cyber Defense training into an engaging and informative experience.
+    <br><br>
+    If you are interested in topics such as Information Security, Web Application Security, or Reverse Engineering, please consider joining our community on 
+    <a href="https://cyberwatch.cc/invite" target="_blank" style="color: #0077B5; text-decoration: none;">Discord</a>.
+  </p>
+</section>
 
-<p align="left">I'm a Freelance Graphic Designer and Cyber Defense Major with an immense passion for Information Security.<br><br><center><a>I am dedicated towards making Cyber Defense training entertaining!</a></center><br><br>If you're interested in topics such as Information Security, Web Application Security, and Reverse Engineering<br>You should Join Our Discord: https://cyberwatch.cc/invite (discord.gg/cyberwatch)</p>
+<section style="text-align: center; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lamentomori&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="GitHub Statistics" style="height:150px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lamentomori&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Top Languages" style="height:150px;">
+</section>
 
-###
+<section style="text-align: center; margin-top: 20px;">
+  <!-- Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" style="height:30px; margin: 0 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" style="height:30px; margin: 0 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" style="height:30px; margin: 0 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="height:30px; margin: 0 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="height:30px; margin: 0 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" style="height:30px; margin: 0 6px;">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="height:30px; margin: 0 6px;">
+  <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" style="height:30px; margin: 0 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects" style="height:30px; margin: 0 6px;">
+  <img src="https://skillicons.dev/icons?i=pr" alt="Adobe Premiere Pro" style="height:30px; margin: 0 6px;">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" style="height:30px; margin: 0 6px;">
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" style="height:30px; margin: 0 6px;">
+  <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" style="height:30px; margin: 0 6px;">
+</section>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lamentomori&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lamentomori&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://youtube.com/@Lamentomori" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+<section style="text-align: center; margin-top: 20px;">
+  <!-- Social Media Links -->
+  <a href="https://youtube.com/@Lamentomori" target="_blank" style="margin: 0 4px;">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" alt="YouTube" style="height:35px;">
   </a>
-  <a href="https://instagram.com/@ifindvulnerabilities" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://instagram.com/@ifindvulnerabilities" target="_blank" style="margin: 0 4px;">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" alt="Instagram" style="height:35px;">
   </a>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <a href="https://discordapp.com/users/ifindvulnerabilities" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" alt="Twitch" style="height:35px; margin: 0 4px;">
+  <a href="https://discordapp.com/users/ifindvulnerabilities" target="_blank" style="margin: 0 4px;">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" alt="Discord" style="height:35px;">
   </a>
-  <a href="mailto:admin@cyberwatch.cc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:admin@cyberwatch.cc" target="_blank" style="margin: 0 4px;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" alt="Gmail" style="height:35px;">
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-# ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31mq6kcvdtywyinp5nzp3rfsi53a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mq6kcvdtywyinp5nzp3rfsi53a&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn" style="height:35px; margin: 0 4px;">
+</section>
