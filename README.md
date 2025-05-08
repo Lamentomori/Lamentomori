@@ -32,7 +32,8 @@ I'm a **Cybersecurity Researcher**, **Offensive Security Engineer**, and **Freel
 
 ## 🔥 **What I'm Working On**
 
-- 🎯 **CyberWatch** – A **private contracting organization** dedicated to public education. Our platform offers **in-depth guides**, **research**, and **CTF challenges**.  
+- 🎯 **CyberWatch** – A **private contracting organization** dedicated to public education. Our platform offers **in-depth guides**, **research**, and **CTF challenges**.
+- 🛡️ **Total Control** - An **open-sourced blue-teaming windows firewall utility** designed to make Deny all unless explicitly permitted configurations easier for Windows End Users to manage.  
 - 🎥 **YouTube Channel** – Managing and producing content for my [YouTube Channel](https://youtube.com/@Lamentomori), featuring:  
   - ✅ **Exploit breakdowns**  
   - ✅ **Cybersecurity tutorials**  
